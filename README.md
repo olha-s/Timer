@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+Timer contain:
+* «Start / Stop» - запуск / остановка отсчета времени, останавливает и обнуляет значение таймера.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+* «Wait» - работает на двойной клик (время между нажатиями не более 300 мс!) таймер должен прекратить отсчет времени; если после него нажать старт, то возобновляется отсчет.
 
-## Available Scripts
+* «Reset» - сброс таймера на 0.  Обнуляет таймер и снова начинает отсчет.
+
+
+### Available Scripts
 
 In the project directory, you can run:
 
